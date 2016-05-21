@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Perfil Rodrigo Lima"
 date:   2016-05-21 11:45:11 -0300
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Dados pessoais
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+Natural de São Paulo, casado, 30 anos (1985)
+Rua Baluarte, 686 - AP 72 - Vila Olímpia - CEP: 04549-012 -São Paulo/SP
 
 {% highlight ruby %}
 def print_hi(name)
